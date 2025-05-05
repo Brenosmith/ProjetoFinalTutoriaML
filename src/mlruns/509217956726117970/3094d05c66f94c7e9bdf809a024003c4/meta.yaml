@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/3094d05c66f94c7e9bdf809a024003c4/artifacts
+end_time: 1746118183200
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: active
+run_id: 3094d05c66f94c7e9bdf809a024003c4
+run_name: learned-gnat-335
+run_uuid: 3094d05c66f94c7e9bdf809a024003c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746118139948
+status: 3
+tags: []
+user_id: ferra

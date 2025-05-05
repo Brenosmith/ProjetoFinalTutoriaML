@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/4c0053b08ef64d22868b14056cda68e3/artifacts
+deleted_time: 1746118037077
+end_time: 1746114951499
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: 4c0053b08ef64d22868b14056cda68e3
+run_name: powerful-shrimp-462
+run_uuid: 4c0053b08ef64d22868b14056cda68e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746114907605
+status: 3
+tags: []
+user_id: ferra

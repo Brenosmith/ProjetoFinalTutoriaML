@@ -1,0 +1,56 @@
+artifact_path: modelo_arvore_decisao_base
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 6182
+model_uuid: d7c7e63e90a74b2a9c13e016ae3152e4
+prompts: null
+run_id: e9042e770ce9457ea6fcea0d0d850240
+signature:
+  inputs: '[{"type": "boolean", "name": "BIN_Q001_DUMMY_H", "required": true}, {"type":
+    "boolean", "name": "BIN_Q002_DUMMY_H", "required": true}, {"type": "boolean",
+    "name": "BIN_Q018", "required": true}, {"type": "boolean", "name": "BIN_Q020",
+    "required": true}, {"type": "boolean", "name": "BIN_Q021", "required": true},
+    {"type": "boolean", "name": "BIN_Q023", "required": true}, {"type": "boolean",
+    "name": "BIN_Q025", "required": true}, {"type": "double", "name": "CAT_COR_RACA",
+    "required": true}, {"type": "double", "name": "CAT_CO_MUNICIPIO_ESC", "required":
+    true}, {"type": "double", "name": "CAT_CO_UF_ESC", "required": true}, {"type":
+    "double", "name": "CAT_DEPENDENCIA_ADM_ESC", "required": true}, {"type": "double",
+    "name": "CAT_ENSINO", "required": true}, {"type": "double", "name": "CAT_ESCOLA",
+    "required": true}, {"type": "double", "name": "CAT_ESTADO_CIVIL", "required":
+    true}, {"type": "double", "name": "CAT_FAIXA_ETARIA", "required": true}, {"type":
+    "double", "name": "CAT_LINGUA", "required": true}, {"type": "double", "name":
+    "CAT_LOCALIZACAO_ESC", "required": true}, {"type": "double", "name": "CAT_NACIONALIDADE",
+    "required": true}, {"type": "double", "name": "CAT_Q003", "required": true}, {"type":
+    "double", "name": "CAT_Q004", "required": true}, {"type": "double", "name": "CAT_SEXO",
+    "required": true}, {"type": "double", "name": "CAT_SIT_FUNC_ESC", "required":
+    true}, {"type": "double", "name": "NUM_Q001", "required": true}, {"type": "double",
+    "name": "NUM_Q002", "required": true}, {"type": "double", "name": "NUM_Q005",
+    "required": true}, {"type": "double", "name": "NUM_Q006", "required": true}, {"type":
+    "double", "name": "NUM_Q007", "required": true}, {"type": "double", "name": "NUM_Q008",
+    "required": true}, {"type": "double", "name": "NUM_Q009", "required": true}, {"type":
+    "double", "name": "NUM_Q010", "required": true}, {"type": "double", "name": "NUM_Q011",
+    "required": true}, {"type": "double", "name": "NUM_Q012", "required": true}, {"type":
+    "double", "name": "NUM_Q013", "required": true}, {"type": "double", "name": "NUM_Q014",
+    "required": true}, {"type": "double", "name": "NUM_Q015", "required": true}, {"type":
+    "double", "name": "NUM_Q016", "required": true}, {"type": "double", "name": "NUM_Q017",
+    "required": true}, {"type": "double", "name": "NUM_Q019", "required": true}, {"type":
+    "double", "name": "NUM_Q022", "required": true}, {"type": "double", "name": "NUM_Q024",
+    "required": true}]'
+  outputs: '[{"type": "double", "name": "NUM_NOTA_CH", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-01 16:32:26.390870'

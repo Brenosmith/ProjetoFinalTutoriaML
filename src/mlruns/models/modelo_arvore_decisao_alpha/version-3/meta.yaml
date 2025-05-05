@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746134897119
+current_stage: None
+description: ''
+last_updated_timestamp: 1746134897119
+name: modelo_arvore_decisao_alpha
+run_id: 0eaff448cd8a41218d24d46a71caaa48
+run_link: ''
+source: mlflow-artifacts:/299918284299748162/0eaff448cd8a41218d24d46a71caaa48/artifacts/modelo_arvore_decisao_alpha
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/299918284299748162/0eaff448cd8a41218d24d46a71caaa48/artifacts/modelo_arvore_decisao_alpha
+user_id: null
+version: 3

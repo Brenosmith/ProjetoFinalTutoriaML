@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/8b0bb09f48b34bbc84562db229bde0fd/artifacts
+deleted_time: 1746129782888
+end_time: 1746127752152
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: 8b0bb09f48b34bbc84562db229bde0fd
+run_name: burly-sloth-556
+run_uuid: 8b0bb09f48b34bbc84562db229bde0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746127691150
+status: 4
+tags: []
+user_id: ferra

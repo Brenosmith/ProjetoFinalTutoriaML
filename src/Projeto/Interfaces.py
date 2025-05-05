@@ -1,0 +1,44 @@
+from pydantic import BaseModel
+from Projeto.Enums import *
+
+class IModeloEntrada(BaseModel):
+    NAO_SABE_GRAU_ESTUDO_PAI: bool     # BIN_Q001_DUMMY_H
+    NAO_SABE_GRAU_ESTUDO_MAE: bool     # BIN_Q002_DUMMY_H
+    PRESENCA_ASPIRADOR: bool           # BIN_Q018
+    PRESENCA_DVD: bool                 # BIN_Q020
+    PRESENCA_TV_ASSINATURA: bool       # BIN_Q021
+    PRESENCA_TEL_FIXO: bool            # BIN_Q023
+    PRESENCA_INTERNET: bool            # BIN_Q025
+    COR_RACA: int                    # CAT_COR_RACA
+    CO_MUNICIPIO_ESC: int            # CAT_CO_MUNICIPIO_ESC
+    CO_UF_ESC: int                   # CAT_CO_UF_ESC
+    DEPENDENCIA_ADM_ESC: int         # CAT_DEPENDENCIA_ADM_ESC
+    ENSINO: int                      # CAT_ENSINO
+    ESCOLA: int                      # CAT_ESCOLA
+    ESTADO_CIVIL: int                # CAT_ESTADO_CIVIL
+    FAIXA_ETARIA: int                # CAT_FAIXA_ETARIA
+    LINGUA: int                      # CAT_LINGUA
+    LOCALIZACAO_ESC: int             # CAT_LOCALIZACAO_ESC
+    NACIONALIDADE: int               # CAT_NACIONALIDADE
+    OCUPACAO_PAI: str                # CAT_Q003
+    OCUPACAO_MAE: str                # CAT_Q004
+    SEXO: str                        # CAT_SEXO
+    SIT_FUNC_ESC: int                # CAT_SIT_FUNC_ESC
+    GRAU_ESTUDO_PAI: int             # NUM_Q001
+    GRAU_ESTUDO_MAE: int             # NUM_Q002
+    QTD_RESIDENTES: int                         # NUM_Q005
+    RENDA_MENSAL_FAMILIA: int                   # NUM_Q006
+    FREQ_EMPREGADO: int                         # NUM_Q007
+    QTD_BANHEIRO: int                           # NUM_Q008
+    QTD_QUARTO: int                             # NUM_Q009
+    QTD_CARRO: int                              # NUM_Q010
+    QTD_MOTO: int                               # NUM_Q011
+    QTD_GELADEIRA: int                          # NUM_Q012
+    QTD_FREEZER: int                            # NUM_Q013
+    QTD_MAQ_LAVAR_ROUPA: int                    # NUM_Q014
+    QTD_MAQ_SECAR: int                          # NUM_Q015
+    QTD_MICROONDAS: int                         # NUM_Q016
+    QTD_MAQ_LAVAR_LOUCA: int                    # NUM_Q017
+    QTD_TELEVISOR: int                          # NUM_Q019
+    QTD_CELULAR: int                            # NUM_Q022
+    QTD_COMPUTADOR: int                         # NUM_Q024

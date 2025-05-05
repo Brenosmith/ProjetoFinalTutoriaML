@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0bf27c3bcb4443c0b974d6f5173672b4/artifacts
+end_time: 1746225919246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bf27c3bcb4443c0b974d6f5173672b4
+run_name: fearless-fowl-934
+run_uuid: 0bf27c3bcb4443c0b974d6f5173672b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746225911092
+status: 3
+tags: []
+user_id: ferra

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746226073824
+current_stage: None
+description: ''
+last_updated_timestamp: 1746226073824
+name: modelo_lgbm_bayes
+run_id: 5532c59d2ff5447ca0ec4b7f70926a36
+run_link: ''
+source: mlflow-artifacts:/299918284299748162/5532c59d2ff5447ca0ec4b7f70926a36/artifacts/modelo_lgbm_bayes
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/299918284299748162/5532c59d2ff5447ca0ec4b7f70926a36/artifacts/modelo_lgbm_bayes
+user_id: null
+version: 9

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746114878112
+current_stage: None
+description: ''
+last_updated_timestamp: 1746114878112
+name: modelo_lgbm_base
+run_id: 784cf12a82014c0398c331c8d0d36f1a
+run_link: ''
+source: mlflow-artifacts:/509217956726117970/784cf12a82014c0398c331c8d0d36f1a/artifacts/modelo_lgbm_base
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/509217956726117970/784cf12a82014c0398c331c8d0d36f1a/artifacts/modelo_lgbm_base
+user_id: null
+version: 1

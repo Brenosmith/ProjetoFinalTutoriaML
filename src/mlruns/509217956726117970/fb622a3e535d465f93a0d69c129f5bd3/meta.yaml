@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/fb622a3e535d465f93a0d69c129f5bd3/artifacts
+deleted_time: 1746117157567
+end_time: 1746117074272
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: fb622a3e535d465f93a0d69c129f5bd3
+run_name: bedecked-steed-695
+run_uuid: fb622a3e535d465f93a0d69c129f5bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746117073555
+status: 4
+tags: []
+user_id: ferra

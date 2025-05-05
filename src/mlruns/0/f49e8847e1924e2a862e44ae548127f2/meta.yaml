@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f49e8847e1924e2a862e44ae548127f2/artifacts
+end_time: 1746219903277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f49e8847e1924e2a862e44ae548127f2
+run_name: magnificent-bear-137
+run_uuid: f49e8847e1924e2a862e44ae548127f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746219863983
+status: 3
+tags: []
+user_id: ferra

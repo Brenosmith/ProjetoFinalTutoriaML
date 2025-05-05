@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/bf4c1638811740bfabf39ab04cf94828/artifacts
+end_time: 1746128001171
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: active
+run_id: bf4c1638811740bfabf39ab04cf94828
+run_name: brawny-ant-510
+run_uuid: bf4c1638811740bfabf39ab04cf94828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746127914967
+status: 3
+tags: []
+user_id: ferra

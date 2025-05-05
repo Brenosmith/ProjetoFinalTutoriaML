@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/6d5920e89d094390b31aa529971f3675/artifacts
+end_time: 1746126862401
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: active
+run_id: 6d5920e89d094390b31aa529971f3675
+run_name: glamorous-seal-591
+run_uuid: 6d5920e89d094390b31aa529971f3675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746126824078
+status: 3
+tags: []
+user_id: ferra

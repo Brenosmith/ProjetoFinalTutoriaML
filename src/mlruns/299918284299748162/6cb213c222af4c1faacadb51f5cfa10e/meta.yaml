@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/299918284299748162/6cb213c222af4c1faacadb51f5cfa10e/artifacts
+end_time: 1746134844020
+entry_point_name: ''
+experiment_id: '299918284299748162'
+lifecycle_stage: active
+run_id: 6cb213c222af4c1faacadb51f5cfa10e
+run_name: debonair-skunk-2
+run_uuid: 6cb213c222af4c1faacadb51f5cfa10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746134789797
+status: 3
+tags: []
+user_id: ferra

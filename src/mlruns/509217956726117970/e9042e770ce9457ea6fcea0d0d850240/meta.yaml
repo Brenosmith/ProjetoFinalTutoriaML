@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/e9042e770ce9457ea6fcea0d0d850240/artifacts
+deleted_time: 1746117189504
+end_time: 1746117151752
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: e9042e770ce9457ea6fcea0d0d850240
+run_name: welcoming-mule-212
+run_uuid: e9042e770ce9457ea6fcea0d0d850240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746117131571
+status: 3
+tags: []
+user_id: ferra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/52ab4939dac64607b6139158ddeca4aa/artifacts
+end_time: 1746126672634
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: active
+run_id: 52ab4939dac64607b6139158ddeca4aa
+run_name: skittish-sloth-427
+run_uuid: 52ab4939dac64607b6139158ddeca4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746126652946
+status: 3
+tags: []
+user_id: ferra

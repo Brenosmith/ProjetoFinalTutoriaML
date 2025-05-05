@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/98a2d39fb6604d809594a49791f0264f/artifacts
+deleted_time: 1746117157567
+end_time: 1746117000181
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: 98a2d39fb6604d809594a49791f0264f
+run_name: amusing-bear-110
+run_uuid: 98a2d39fb6604d809594a49791f0264f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746116999857
+status: 4
+tags: []
+user_id: ferra

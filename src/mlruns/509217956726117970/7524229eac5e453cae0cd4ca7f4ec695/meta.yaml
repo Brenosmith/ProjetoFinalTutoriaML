@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/7524229eac5e453cae0cd4ca7f4ec695/artifacts
+deleted_time: 1746118037077
+end_time: 1746116643061
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: 7524229eac5e453cae0cd4ca7f4ec695
+run_name: fearless-bird-610
+run_uuid: 7524229eac5e453cae0cd4ca7f4ec695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746116585272
+status: 3
+tags: []
+user_id: ferra

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/a0109cd37c764fa4a68c035f4a261fb3/artifacts
+deleted_time: 1746116431167
+end_time: 1746116304339
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: a0109cd37c764fa4a68c035f4a261fb3
+run_name: fearless-snail-719
+run_uuid: a0109cd37c764fa4a68c035f4a261fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746116251815
+status: 3
+tags: []
+user_id: ferra

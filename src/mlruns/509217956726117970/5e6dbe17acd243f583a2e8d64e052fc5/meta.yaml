@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/5e6dbe17acd243f583a2e8d64e052fc5/artifacts
+end_time: 1746125063883
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: active
+run_id: 5e6dbe17acd243f583a2e8d64e052fc5
+run_name: dapper-frog-94
+run_uuid: 5e6dbe17acd243f583a2e8d64e052fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746125045001
+status: 3
+tags: []
+user_id: ferra

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746136210529
+current_stage: None
+description: ''
+last_updated_timestamp: 1746136210529
+name: modelo_arvore_decisao_base
+run_id: 4e42a8cacfe14ac883d546f04337e553
+run_link: ''
+source: mlflow-artifacts:/299918284299748162/4e42a8cacfe14ac883d546f04337e553/artifacts/modelo_arvore_decisao_base
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/299918284299748162/4e42a8cacfe14ac883d546f04337e553/artifacts/modelo_arvore_decisao_base
+user_id: null
+version: 5

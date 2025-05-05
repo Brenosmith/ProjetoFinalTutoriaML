@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746126672620
+current_stage: None
+description: ''
+last_updated_timestamp: 1746126672620
+name: modelo_arvore_decisao_grid
+run_id: 52ab4939dac64607b6139158ddeca4aa
+run_link: ''
+source: mlflow-artifacts:/509217956726117970/52ab4939dac64607b6139158ddeca4aa/artifacts/modelo_arvore_decisao_grid
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/509217956726117970/52ab4939dac64607b6139158ddeca4aa/artifacts/modelo_arvore_decisao_grid
+user_id: null
+version: 1

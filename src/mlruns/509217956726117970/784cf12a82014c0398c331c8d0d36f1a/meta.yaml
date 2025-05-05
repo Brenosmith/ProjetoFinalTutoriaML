@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/509217956726117970/784cf12a82014c0398c331c8d0d36f1a/artifacts
+deleted_time: 1746114904650
+end_time: 1746114878125
+entry_point_name: ''
+experiment_id: '509217956726117970'
+lifecycle_stage: deleted
+run_id: 784cf12a82014c0398c331c8d0d36f1a
+run_name: unleashed-cub-810
+run_uuid: 784cf12a82014c0398c331c8d0d36f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746114835606
+status: 3
+tags: []
+user_id: ferra

@@ -1,14 +1,3 @@
-Brenosmith: Gostaria de criar um arquivo reafme para o github que desse um overview do meu projeto.
-
-Dividido em quatro partes:
-1. Como executar o projeto
-2. O que é cada arquivo e subpastas de forma simplificada
-3. O que o projeto faz, qual o objetivo
-4. Quais são os resultados do projeto
-
-Estruture esse arquivo baseado no arquivo atual, no projeto e na estrutura do mesmo.
-
-Workspace: Collecting workspace informationFiltering to most relevant information```markdown
 # Previsão de Notas do ENEM 2023
 
 Este projeto utiliza técnicas de Machine Learning para prever as notas do ENEM 2023 com base em dados socioeconômicos e escolares. Ele inclui um backend em FastAPI, um frontend em Streamlit e modelos de aprendizado de máquina treinados e otimizados.
@@ -46,6 +35,13 @@ mlflow server --host 127.0.0.1 --port 9080
 ```
 
 Acesse o MLFlow pela URI: [http://127.0.0.1:9080](http://127.0.0.1:9080)
+
+### Fonte de dados
+
+Download base de dados:
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+
+Salvar essa base em: `Bases/`
 
 ---
 

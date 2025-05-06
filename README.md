@@ -1,6 +1,6 @@
 # Previsão de Notas do ENEM 2023
 
-Este projeto utiliza técnicas de Machine Learning para prever as notas do ENEM 2023 com base em dados socioeconômicos e escolares. Ele inclui um backend em FastAPI, um frontend em Streamlit e modelos de aprendizado de máquina treinados e otimizados.
+Este projeto utiliza técnicas de Machine Learning para prever as notas do ENEM 2023 com base em dados socioeconômicos. Ele inclui um backend em FastAPI, um frontend em Streamlit e modelos de aprendizado de máquina treinados e otimizados.
 
 ---
 

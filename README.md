@@ -4,7 +4,41 @@ Este projeto utiliza técnicas de Machine Learning para prever as notas do ENEM 
 
 ---
 
-## 1. Como executar o projeto
+## 1. Configuração do Ambiente Virtual
+
+Antes de executar o projeto, é recomendado criar um ambiente virtual para gerenciar as dependências. Siga os passos abaixo:
+
+1. **Criar o ambiente virtual**:
+   No terminal, execute:
+   ```bash
+   python -m venv venv
+   ```
+
+2. **Ativar o ambiente virtual**:
+   - No Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - No macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+
+3. **Instalar as dependências**:
+   Com o ambiente virtual ativado, instale as dependências listadas no arquivo `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Desativar o ambiente virtual**:
+   Após finalizar o uso, desative o ambiente virtual com:
+   ```bash
+   deactivate
+   ```
+
+---
+
+## 2. Como executar o projeto
 
 ### Backend (API)
 Para iniciar a API em modo de desenvolvimento (debug):

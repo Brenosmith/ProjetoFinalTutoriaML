@@ -4,6 +4,13 @@ Este projeto utiliza técnicas de Machine Learning para prever as notas do ENEM 
 
 ---
 
+## Requisitos
+
+Antes de começar, certifique-se de ter os seguintes itens instalados em sua máquina:
+- **Python 3.8 ou superior**: Necessário para executar o projeto.
+- **pip**: Gerenciador de pacotes do Python (normalmente incluso no Python).
+- **Git** (opcional): Para clonar o repositório, caso necessário.
+
 ## 1. Configuração do Ambiente Virtual
 
 Antes de executar o projeto, é recomendado criar um ambiente virtual para gerenciar as dependências. Siga os passos abaixo:
